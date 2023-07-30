@@ -10,7 +10,7 @@ Aquí encontrarás mi trabajo en desarrollo, donde he puesto todo mi empeño y d
 
 `Frameworks:` Bootstrap, Material UI, Tailwind
 
-`Bibliotecas y Frameworks de JavaScript:` React.js
+`Frameworks de JavaScript:` React.js
 
 
 <!--
