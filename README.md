@@ -4,8 +4,6 @@
 
 Gracias por visitar mi espacio en GitHub. Estoy encantada de compartir contigo mi proyecto como desarrolladora. Quiero aprovechar esta oportunidad para decirte que estoy en el comienzo de mi camino en este apasionante mundo. Cada proyecto representa un desafío emocionante y una oportunidad para aprender y crecer.
 
-Aquí encontrarás mi trabajo en desarrollo, donde he puesto todo mi empeño y dedicación. Aunque todavía estoy en las primeras etapas de mi trayectoria, me enorgullece decir que he logrado crear soluciones funcionales y efectivas. Cada línea de código representa mi esfuerzo por ofrecer un trabajo de calidad.
-
 <!--
 **genesis-nf/genesis-nf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
