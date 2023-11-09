@@ -1,7 +1,6 @@
 ### Genesis Nuñez
 *Junior Web Developer Full-Stack*
 👋😄
-
 Gracias por visitar mi espacio en GitHub. Estoy encantada de compartir contigo mi proyecto como desarrolladora. Quiero aprovechar esta oportunidad para decirte que estoy en el comienzo de mi camino en este apasionante mundo. Cada proyecto representa un desafío emocionante y una oportunidad para aprender y crecer.
 
 <!--
