@@ -1,13 +1,8 @@
 ### ¡Hola, soy Genesis Nuñez! 👋😄
 
-Soy una apasionada desarrolladora web con experiencia tanto en frontend como en backend. Actualmente, me desempeño como Junior Web Developer Full-Stack, donde he contribuido al éxito de diversos proyectos.
+Estoy aprendiendo desarrollo de aplicaciones multiplataforma utilizando .NET. Cada semana subo nuevos proyectos y actualizo mis repositorios con el progreso de mis estudios. Puedes ver cómo evoluciona mi aprendizaje a través de los distintos proyectos y contribuciones que comparto aquí.
 
-💼 **Experiencia Profesional:**
-- **Desarrolladora Frontend:** He diseñado interfaces de usuario atractivas y funcionales, optimizando la experiencia del usuario.
-- **Desarrolladora Backend:** He trabajado en el desarrollo de la lógica del servidor y la gestión de bases de datos, asegurando la robustez de las aplicaciones.
-
-🚀 **Logros Recientes:**
-- **Optimización de Rendimiento:** Colaboré en la optimización del rendimiento de aplicaciones, mejorando la velocidad de carga y la eficiencia.
+¡Siéntete libre de seguirme y dejar sugerencias o comentarios!
 
 🌱 **Aprendizaje Continuo:**
 Cada proyecto es una oportunidad para aprender y mejorar. Mi compromiso con la educación continua me impulsa a mantenerme al día con las últimas tecnologías y prácticas de desarrollo.
